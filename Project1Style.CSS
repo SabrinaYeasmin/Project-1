@@ -1,0 +1,114 @@
+.logo{
+    width: 100px;
+    height: auto;
+}
+
+.icelandimg{
+    width: 100px;
+    height: auto;
+    float: right;
+}
+
+.pinkbox{
+    background-color: pink;
+    border: 3px solid black;
+    padding: 20px;
+    margin: 30px;
+    position: relative;
+}
+
+.pinkboximage >.img3{
+    width: 150px;
+    height: auto;
+    float: left;
+    border: 1px solid blue;
+}
+
+.pinkboximage >.img4{
+    width: 150px;
+    height: auto;
+    float: right;
+    border: 1px solid blue;
+}
+
+.floatright{
+    float: right;
+}
+
+.floatleft{
+    float: left;
+}
+
+table{
+    border: 3px solid black;
+}
+
+.bottom-center{
+    text-align: center;
+}
+
+.center {
+    text-align: center;
+}
+
+.activityrow {
+    height: 40%;
+}
+
+.infobox {
+    background-color: lightgoldenrodyellow;
+    width: 300px;
+    height: 225px;
+    text-align: center;
+    float: left;
+    border: solid slateblue 5px;
+    padding: 10px;
+}
+
+.imgbox {
+    width: 280px;
+    height: 250px;
+    float: left;
+    margin: auto 2%;
+    border: solid black 2px;
+}
+
+.imgbox2 {
+    width: 280px;
+    height: 250px;
+    float: right;
+    margin: auto;
+    border: solid black 2px;
+}
+
+.container {
+    height: 250px;
+    width: 950px;
+    position: relative;
+    align-items: center; 
+    
+   
+}
+
+.nav > a {
+    text-decoration: none;
+    background: blue;
+    color: white;
+    border-radius: 50px;
+    width: 100px;
+    margin-top: 50%;
+}
+
+.nav > a:hover {
+    color: blueviolet;
+    background-color: lightcyan;
+}
+
+
+
+
+
+
+
+
+
